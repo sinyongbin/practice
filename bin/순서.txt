@@ -1,0 +1,13 @@
+exe파일 만드는 법
+
+1. 이클립스 workspace에서 새 폴더 만들기( 'project' 같은 식으로)
+2. src 아래로 패키지 생성
+3. 생성한 패키지에  ojdbc8.jar 드래그해서 복사 
+4. 맨위의 폴더 'project'에 오른쪽마우스 클릭, Export(내보내기)
+5. Java에 Runnable JAR file 클릭
+6. 실행될 main클래스 선택
+7. destination: 저장위치 설정
+8. handling: 첫번째 아니면 두번째 선택
+9. 저장한 곳으로 가서 'project.jar' 이런식으로 저장되어 있는파일을 Launch4j에서 실행
+10. Launch4j에서 Output file에 exe파일 저장하고싶은 경로 지정해주고 Jar에 저장해놨던 'project.jar'파일 들고오기
+11. 설정누르고 실행

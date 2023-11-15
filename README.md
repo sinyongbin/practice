@@ -1,6 +1,5 @@
 # 🛍️ JAVA GUI 개발
-![00](https://github.com/dhkim310/First-Project/assets/140373535/edfe9a00-8f8a-4b7a-82df-808c29ea9850)
-
+![00](https://github.com/sinyongbin/shopping/assets/140153221/980de850-5e11-4e05-836c-7f742d4ea77e)
 - - - 
 
 # 📋 목차 
